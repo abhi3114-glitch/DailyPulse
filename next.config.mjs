@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  /* config options here */
-  reactCompiler: true,
+  // Temporary: PWA disabled due to build issues
 };
 
 export default nextConfig;
